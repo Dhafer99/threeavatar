@@ -987,6 +987,10 @@ export class ThreeScene implements AfterViewInit {
         💡 Walk near the basketball and press <strong>E</strong> to pick it up!<br>
         Then press <strong>R</strong> to throw it around the court.
       </div>
+
+      <div style="color: #888888; font-size: 12px; margin-top: 15px; padding-top: 10px; border-top: 1px solid #444; text-align: center;">
+        🎮 Created by <strong style="color: #ffaa00;">Dhafer Souid</strong>
+      </div>
     `;
 
     // Add to body
